@@ -70,4 +70,10 @@ for (var i=0; i<frase.length;i++){
 document.write("<br>En la frase <b>",frase, "</b> hay <br>", letraA, " letras A, <br>", letraE, " letras E, <br>", letraI, " letras I, <br>", letraO, " letras O, <br>", letraU, " letras U");
 //11. Escribe un programa que pida una frase y escriba cuántas de las letras que tiene son vocales
 document.write("<br>En la frase <b>",frase, "</b> hay ", contador, " vocales");
+//12. Escribe un programa que pida una frase y escriba cuántas veces aparecen cada una de las vocales
 
+//13. Escribe un programa que pida un número y nos diga si es divisible por 2, 3, 5 o 7 (sólo hay que comprobar si lo es por uno de los cuatro)
+var numero = prompt("Escribe un numero")
+if(numero%2 ==0){
+    
+}
